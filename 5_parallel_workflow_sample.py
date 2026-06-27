@@ -1,0 +1,1 @@
+#Example of parallel workflow, structured output and use of reducer fuction
